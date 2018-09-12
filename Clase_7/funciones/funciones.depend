@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536714455 source:/home/alumno/Descargas/programacion_1/Clase_7/funciones/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536714462 source:/home/alumno/Descargas/programacion_1/Clase_7/funciones/LibreriaMia.c
+
+1536711904 /home/alumno/Descargas/programacion_1/Clase_7/funciones/LibreriaMia.h
+
